@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name "Socket_Arduino_Uno")(type "KiCad")(uri "$(KIPRJMOD)/Socket_Arduino_Uno.pretty")(options "")(descr ""))
+  (lib (name "mt_reflowcnt")(type "KiCad")(uri "D:/Projects/mt_reflowcnt/mt_reflowcnt.pretty")(options "")(descr ""))
+)
