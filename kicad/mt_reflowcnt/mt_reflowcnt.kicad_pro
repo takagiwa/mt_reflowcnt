@@ -389,11 +389,10 @@
         "microvia_drill": 0.1,
         "name": "Power",
         "nets": [
+          "/9(**)",
           "/A0",
           "/A1",
           "GND",
-          "Net-(C5-Pad1)",
-          "Net-(C5-Pad2)",
           "Net-(J2-Pad1)",
           "Net-(J2-Pad2)",
           "Net-(R1-Pad2)"
@@ -416,7 +415,7 @@
         "microvia_drill": 0.1,
         "name": "PowerW",
         "nets": [
-          "+3V3",
+          "+3.3V",
           "+5V"
         ],
         "pcb_color": "rgba(0, 0, 0, 0.000)",
@@ -488,6 +487,10 @@
     [
       "3afe46a0-3c2d-44da-8be1-0bf4863c5f6b",
       ""
+    ],
+    [
+      "45dca468-feb6-40f2-8120-7e8c67316cbb",
+      "thermo.kicad_sch"
     ]
   ],
   "text_variables": {}

@@ -1,4 +1,4 @@
-20375126423395178
+20381787496666435
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -57694,6 +57694,13 @@ Connector
 11
 11
 LibraryLoader
+430481025816
+430481025816
+Switch
+0
+4
+4
+LibraryLoader
 A11JP
 A11JP-4
 Switch
@@ -57715,6 +57722,13 @@ Schottky Diode
 2
 2
 LibraryLoader
+N6L50T0C2033030
+N6L50T0C-203-3030-1
+Resistor
+0
+3
+3
+LibraryLoader
 NE555DR
 D (R-PDSO-G8)
 Integrated Circuit
@@ -57731,6 +57745,20 @@ Diode
 LibraryLoader
 SOIC127P600X175-8N
 S8+4
+Integrated Circuit
+0
+8
+8
+LibraryLoader
+SOIC127P600X175-14N
+D (R-PDSO-G14)
+Integrated Circuit
+0
+14
+14
+LibraryLoader
+SOP50P310X90-8N
+DCU
 Integrated Circuit
 0
 8
@@ -57758,7 +57786,7 @@ Integrated Circuit
 5
 LibraryLoader
 SOT95P280X145-6N
-DBV0006
+DBV0006A
 Integrated Circuit
 0
 6
@@ -86139,8 +86167,8 @@ PCC-SMP
 
 
 0
-0
-0
+4
+4
 mt_reflowcnt
 SC2004CS_B
 
