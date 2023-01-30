@@ -3311,6 +3311,15 @@
     (path "/ca8d941a-e9b8-4a00-a8f7-714eb6d980dd"
       (reference "S2") (unit 1) (value "430481025816") (footprint "LibraryLoader:430481025816")
     )
+    (path "/45dca468-feb6-40f2-8120-7e8c67316cbb/5569f886-d1d7-43fe-a69d-665a0ad55f4d"
+      (reference "TP1") (unit 1) (value "TestPoint") (footprint "TestPoint:TestPoint_Pad_D2.0mm")
+    )
+    (path "/45dca468-feb6-40f2-8120-7e8c67316cbb/a180f25c-1fa9-462e-b734-d7cd76ecf59d"
+      (reference "TP2") (unit 1) (value "TestPoint") (footprint "TestPoint:TestPoint_Pad_D2.0mm")
+    )
+    (path "/45dca468-feb6-40f2-8120-7e8c67316cbb/e357806f-32f7-4147-843e-1090ab9dcd15"
+      (reference "TP3") (unit 1) (value "TestPoint") (footprint "TestPoint:TestPoint_Pad_D2.0mm")
+    )
     (path "/4e35f84d-4095-41c4-bbe9-b1516dd04830"
       (reference "U1") (unit 1) (value "SC2004CS_B") (footprint "mt_reflowcnt:SC2004CS_B")
     )
